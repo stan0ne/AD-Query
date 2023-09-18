@@ -1,0 +1,2 @@
+# AD-Query
+dsa.msc
